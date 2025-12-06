@@ -21,18 +21,18 @@
             </ul>
         </nav>
     </header>
-
+    <main>
     <form action="/register" method="POST">
         <fieldset>
             <legend>ข้อมูลส่วนตัว</legend>
             <label for="fname">ชื่อจริง:</label>
             <input type="text" id="fname" name="firstname" required />
-            <label for="fname">นามสกุล:</label>
+            <label for="lname">นามสกุล:</label>
             <input type="text" id="lname" name="lastname" required />
             <br>
             <label for="email">อีเมล:</label>
             <input type="email" id="email" name="email" required />
-            <label for="email">เบอร์โทรศัพท์:</label>
+            <label for="number">เบอร์โทรศัพท์:</label>
             <input type="number" id="number" name="number" required />
             <br>
             <fieldset>
@@ -54,7 +54,7 @@
         <button type="submit">ส่งข้อมูล</button>
         <button type="reset">ยกเลิก</button>
     </form>
-    <section id="contract-info">
+    <section id="contact-info">
         <h2>ที่อยู่และช่องทางติดต่อบริษัท</h2>
         <p>
             บริษัท นานมีบุ๊คส์ จำกัด อาคารนานมีบุ๊คส์เฮาส์ เลขที่ 11 ซอยสุขุมวิท 31 แขวงคลองเตยเหนือ เขตวัฒนา กรุงเทพฯ 10110
@@ -73,7 +73,8 @@
                 allowfullscreen="" 
                 loading="lazy">
             </iframe>
-    </section>  
+    </section>
+    </main>  
     <footer>
     <nav>
             <ul>
