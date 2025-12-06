@@ -20,6 +20,16 @@
 - [บริการของเรา](services.html)
 - [ติดต่อเรา](contact.html)
 
+## รูปหน้าจอทั้งหมด (Screenshots)
+### 1. หน้าแรก
+![Home Page](screenshots/index.png)
+### 2. หน้าเกี่ยวกับเรา
+![About Page](screenshots/about.png)
+### 3. หน้าบริการ
+![Services Page](screenshots/services.png)
+### 4. หน้าติดต่อเรา
+![Contact Page](screenshots/contact.png)
+
 ## ผู้จัดทำ
 ชื่อ-นามสกุล: นายชิษณุพงศ์ โรจน์เลิศกิจจา
 รหัสนักศึกษา: 67160025
