@@ -1,0 +1,63 @@
+/* ========================
+ RESET & DEFAULTS
+ ======================== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    background-color: #fbfbf3;
+    color: #17152c;
+}
+/* ========================
+ TYPOGRAPHY
+ ======================== */
+h1 {
+    margin-bottom: 1rem;
+    font-weight: 700; 
+    font-size: 2.5rem;   
+    color: #ea0000;     
+}
+h2 {
+    margin-bottom: 1rem;
+    font-weight: 700; 
+    font-size: 2rem;     
+    color: #1a008d;      
+    border-bottom: 2px solid #cecece; 
+    padding-bottom: 10px;
+    margin-top: 30px;
+}
+h3 {
+    margin-bottom: 1rem;
+    font-wergb(0, 0, 0)00; 
+    font-size: 1.5rem;
+    color: #000000;
+}
+p {
+    line-height: 1.6; 
+    margin-bottom: 1rem;
+    font-size: 1rem;
+}
+a {
+    color: #0022ff;           
+    text-decoration: none;    
+    transition: color 0.3s;  
+}
+a:hover {
+    color: #a11d0e;           
+    text-decoration: underline;
+}
+/* ========================
+ LAYOUT & CONTAINERS
+ ======================== */
+
+/* ========================
+ COMPONENTS (HEADER, NAV, CARD, etc.)
+ ======================== */
+ 
+/* ========================
+ RESPONSIVE / MEDIA QUERIES
+ ======================== */ 
