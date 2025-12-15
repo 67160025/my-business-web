@@ -21,18 +21,18 @@
 
 ## CSS Checklist
 ความเรียบร้อย checklist แต่ละข้อ
-[x] Universal Selector & Reset 
-[x] Element Selectors (h1-h4, p, a, etc.) 
-[x] Class Selectors (.hero, .card, .btn, etc.) 
-[x] ID Selectors (#header, #footer) 
-[x] Pseudo-classes (:hover, :active, :first-child) 
-[x] CSS Units (px, rem, %, vw, vh) 
-[x] Color Palette & Typography 
-[x] Box Model (padding, margin, border) 
-[x] Positioning (sticky, absolute, fixed) 
-[x] Display & Layout (flexbox, grid) 
-[x] Hover Effects & Transitions 
-[x] CSS Organization & Comments 
+- [x] Universal Selector & Reset 
+- [x] Element Selectors (h1-h4, p, a, etc.) 
+- [x] Class Selectors (.hero, .card, .btn, etc.) 
+- [x] ID Selectors (#header, #footer) 
+- [x] Pseudo-classes (:hover, :active, :first-child) 
+- [x] CSS Units (px, rem, %, vw, vh) 
+- [x] Color Palette & Typography 
+- [x] Box Model (padding, margin, border) 
+- [x] Positioning (sticky, absolute, fixed) 
+- [x] Display & Layout (flexbox, grid) 
+- [x] Hover Effects & Transitions 
+- [x] CSS Organization & Comments 
 
 ## รูปหน้าจอทั้งหมด (Screenshots)
 ### 1. หน้าแรก
