@@ -5,13 +5,15 @@
 เว็บไซต์นี้ประกอบด้วย 4 หน้าหลัก ได้แก่ หน้าแรก, เกี่ยวกับเรา, บริการ, และติดต่อเรา 
 
 ## โครงสร้างไฟล์
-- index.html : หน้าแรก (Home)
-- about.html : หน้าเกี่ยวกับเรา (About Us)
-- services.html : หน้าบริการ (Services)
-- contact.html : หน้าติดต่อเรา (Contact)
-- images/ : โฟลเดอร์เก็บรูปภาพ (logo.png, CEO.jpg, MD.jpg)
-- screenshots/ : โฟลเดอร์เก็บรูปภาพหน้าจอ
-- README.md : เอกสารประกอบโปรเจกต์
+- `index.html` : หน้าแรก (Home)
+- `about.html` : หน้าเกี่ยวกับเรา (About Us)
+- `services.html` : หน้าบริการ (Services)
+- `contact.html` : หน้าติดต่อเรา (Contact)
+- `css/`
+  - `styles.css` : ไฟล์ CSS หลัก (Styling)
+- `images/` : โฟลเดอร์เก็บรูปภาพ (logo.png, CEO.jpg, MD.jpg)
+- `screenshots/` : โฟลเดอร์เก็บรูปภาพหน้าจอ
+- `README.md` : เอกสารประกอบโปรเจกต์
 
 ## ลิงก์เข้าสู่หน้าเว็บ
 - [หน้าแรก](index.html)
@@ -36,13 +38,21 @@
 
 ## รูปหน้าจอทั้งหมด (Screenshots)
 ### 1. หน้าแรก
-![Home Page](screenshots/index.png)
+![Home Page](screenshots/index1.png)
+![Home Part](screenshots/index2.png)
 ### 2. หน้าเกี่ยวกับเรา
-![About Page](screenshots/about.png)
+![About Page](screenshots/about1.png)
+![About Page](screenshots/about2.png)
+![About Page](screenshots/about3.png)
+![About Page](screenshots/about4.png)
 ### 3. หน้าบริการ
-![Services Page](screenshots/services.png)
+![Services Page](screenshots/services1.png)
+![Services Page](screenshots/services2.png)
+![Services Page](screenshots/services3.png)
 ### 4. หน้าติดต่อเรา
-![Contact Page](screenshots/contact.png)
+![Contact Page](screenshots/contact1.png)
+![Contact Page](screenshots/contact2.png)
+![Contact Page](screenshots/contact3.png)
 
 ## ผู้จัดทำ
 ชื่อ-นามสกุล: นายชิษณุพงศ์ โรจน์เลิศกิจจา
